@@ -17,6 +17,7 @@ Step 4- Choose a quantity of an item that is available to see a successful purch
 
 Step 5- Once the purchase message has been made, the program process ends. You can see this below.
 ![SufficientQuantity]  2
+![5](https://user-images.githubusercontent.com/28379797/29855976-c24b0522-8d1d-11e7-88b6-df0773cf6e63.GIF)
 
 Step 6- To try an unsuccessful purchase, run steps 1 and 2 again and then for step 3, choose a quantity that is greater than what is available, and insufficient quantity message will result.  
 
