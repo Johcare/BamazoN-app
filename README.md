@@ -10,6 +10,7 @@ Step 2- From the table that is displayed, choose the id of the item to be purcha
 
 
 Step 3- Select the stock quantity of the item to be purchased and type it into the console and hit enter.
+![3](https://user-images.githubusercontent.com/28379797/29854738-e3773b74-8d15-11e7-9834-1e2cb4ec2e16.GIF)
 
 Step 4- Choose a quantity of an item that is available to see a successful purchase message. 
 
