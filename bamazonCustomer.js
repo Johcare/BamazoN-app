@@ -1,7 +1,8 @@
 // require the npm packages needed 
 var mysql = require("mysql");
-var inquirer = require("inquirer");
+var inquirer = require("inquirer")
 require('console.table');
+
 
 // connection to the database
 var connection = mysql.createConnection({
@@ -9,10 +10,10 @@ var connection = mysql.createConnection({
     port: 3306,
 
     // Your username
-    user: "???",
+    user: "root",
 
     // your password
-    password: "???",
+    password: "root",
     database: "BAMAZON"
 });
 
@@ -39,6 +40,8 @@ function showdb() {
                 failure(err);
             } else {
                 // console.table will show the results in a table format in node 
+                // table.tty-table(res);
+                // console.log(tty-table)
                 console.table(res);
                 success(res);
             }
@@ -52,6 +55,7 @@ function connectdb() {
         connection.connect(function(err) {
             // if error reject a promise
             if (err) failure(err);
+            console.log("connected as id " + connection.threadId);
             console.log("connected as id " + connection.threadId);
             success();
         });

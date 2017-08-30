@@ -1,4 +1,4 @@
-# BamazoN
+   :sparkles: # BamazoN  :earth_asia:
 
 Step 1 - In Terminal, run the following code:
 node bamazonCustomer.js
