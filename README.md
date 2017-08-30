@@ -6,6 +6,8 @@ node bamazonCustomer.js
 
 
 Step 2- From the table that is displayed, choose the id of the item to be purchased and type it into the console and hit enter.
+![2](https://user-images.githubusercontent.com/28379797/29854719-c9430aa8-8d15-11e7-9002-2d1beac969ce.GIF)
+
 
 Step 3- Select the stock quantity of the item to be purchased and type it into the console and hit enter.
 
