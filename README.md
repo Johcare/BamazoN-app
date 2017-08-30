@@ -15,7 +15,7 @@ Step 5- Once the purchase message has been made, the program process ends. You c
 Step 6- To try an unsuccessful purchase, run steps 1 and 2 again and then for step 3, choose a quantity that is greater than what is available, and insufficient quantity message will result.  
 
 Step 7- Once the unsuccessful purchase has been completed, the program process ends. You can see this below.
-![InsufficientQuantity]
+![InsufficientQuantity]:globe_with_meridians:
 
 
 
