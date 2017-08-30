@@ -2,6 +2,8 @@
 
 Step 1 - In Terminal, run the following code:
 node bamazonCustomer.js
+![1](https://user-images.githubusercontent.com/28379797/29854636-414d81be-8d15-11e7-9214-d7584eba960b.GIF)
+
 
 Step 2- From the table that is displayed, choose the id of the item to be purchased and type it into the console and hit enter.
 
